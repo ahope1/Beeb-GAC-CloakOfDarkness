@@ -5,7 +5,7 @@
 
 GAC was originally developed by [Sean Ellis](https://www.skeptic.org.uk/2020/11/sean-ellis-1966-2020/) (1966-2020), RIP.
 
-Cloak Of Darkness was originally designed and implemented in other IF systems by [Roger Firth](https://mipmip.org/IFrescue/rf/).
+Cloak Of Darkness was originally designed and implemented (in other IF systems) by [Roger Firth](https://mipmip.org/IFrescue/rf/).
 
 
 ## The files
