@@ -1,11 +1,11 @@
 # Beeb-GAC-CloakOfDarkness
 [**>>> Play online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
 
-**Cloak Of Darkness**, the de-facto standard demo of a text adventure game or work of interactive fiction (IF), is implemented here in [Graphic Adventure Creator](https://en.wikipedia.org/wiki/Graphic_Adventure_Creator) (GAC) for the 8-bit BBC Micro computer. 
+[**Cloak Of Darkness**](https://mipmip.org/IFrescue/rf/), the de-facto standard demo of a text adventure game or work of interactive fiction (IF), is implemented here in [Graphic Adventure Creator](https://en.wikipedia.org/wiki/Graphic_Adventure_Creator) (GAC) for the 8-bit BBC Micro computer. 
 
 GAC was originally developed by [Sean Ellis](https://www.skeptic.org.uk/2020/11/sean-ellis-1966-2020/) (1966-2020), RIP.
 
-Cloak Of Darkness was originally designed and implemented (in other IF systems) by [Roger Firth](https://mipmip.org/IFrescue/rf/).
+Cloak Of Darkness was originally designed and implemented (in other IF systems) by [Roger Firth]().
 
 
 ## The files
