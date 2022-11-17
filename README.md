@@ -1,7 +1,11 @@
 # Beeb-GAC-CloakOfDarkness
-Here's the demo text adventure game Cloak of Darkness, implemented in Graphic Adventure Creator (GAC) for the BBC Micro. 
+**Cloak Of Darkness**, a demo of a text adventure game (or interactive fiction (IF)), is implemented here in Graphic Adventure Creator (GAC) for the 8-bit BBC Micro computer. 
 
-***CloakOfDarknessGAC.ssd*** is a bootable disc-image file in Acorn DFS format that can be used with a real BBC Micro computer or a BBC Micro emulator such as BeebEm or JSBeeb:
+Cloak Of Darkness was originally designed and implemented with other IF systems by [Roger Firth](https://mipmip.org/IFrescue/rf/).
+
+GAC was originally developed by [Sean Ellis](https://www.skeptic.org.uk/2020/11/sean-ellis-1966-2020/) (1966-2020), RIP.
+
+***CloakOfDarknessGAC.ssd*** is a bootable disc-image file in Acorn DFS format that can be used with a real BBC Micro computer or with a BBC Micro emulator such as BeebEm or JSBeeb:
 
 [**>>> Play online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
 
