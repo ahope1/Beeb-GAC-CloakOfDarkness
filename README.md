@@ -1,4 +1,4 @@
-# Beeb-GAC-CloakOfDarkness
+# Cloak Of Darkness in GAC for the BBC Micro 
 [**Cloak Of Darkness**](https://mipmip.org/IFrescue/rf/) is the de-facto standard demo of a text adventure game or work of interactive fiction (IF). Cloak Of Darkness is implemented here in [Graphic Adventure Creator](https://en.wikipedia.org/wiki/Graphic_Adventure_Creator) (GAC) for the 8-bit BBC Micro computer. 
 
 [**>>> Play the game online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
