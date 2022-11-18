@@ -14,4 +14,4 @@ Cloak Of Darkness was originally designed and implemented (in other IF systems) 
 
 [**>>> Play online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
 
-***printout.txt*** is a file containing the implementation details of the game, exported via the Print menu in the BBC Micro version of GAC, and edited slightly. 
+***printout.txt*** is a file containing the implementation details of the game (as contained in the aforementioned file CLOAK), exported via the Print menu in the BBC Micro version of GAC, and edited slightly. 
