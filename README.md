@@ -10,7 +10,7 @@ Cloak Of Darkness was originally designed and implemented (in other IF systems) 
 
 ## The files
 
-***CloakOfDarknessGAC.ssd*** is a bootable disc-image file (in Acorn DFS format) that can be used with a real BBC Micro computer or with a BBC Micro emulator such as BeebEm or JSBeeb. If you boot the disc-image (**EXEC O.!BOOT*) and run the GAC adventure editor, you'll be able to load, view and edit the file CLOAK, which contains all the data for the game (with the exception of the number of the Starting Room, which is 4).
+***CloakOfDarknessGAC.ssd*** is a bootable disc-image file (in Acorn DFS format) that can be used with a real BBC Micro computer or with a BBC Micro emulator such as BeebEm or JSBeeb. If you boot the disc-image (**EXEC O.!BOOT*) and run the GAC adventure editor, you'll be able to load, view and edit the file CLOAK, which contains all the data for the game (except the number of the Starting Room, which is 4).
 
 [**>>> Play online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
 
