@@ -1,5 +1,5 @@
 # Cloak Of Darkness in GAC for the BBC Micro 
-[**Cloak Of Darkness**](https://mipmip.org/IFrescue/rf/) is the de-facto standard "reference game" that is used to demo the features of any particular IF/text-adventure-game authoring system. Here, I've implemented Cloak Of Darkness in [Graphic Adventure Creator](https://en.wikipedia.org/wiki/Graphic_Adventure_Creator) ([GAC](https://stardot.org.uk/forums/viewtopic.php?p=181239#p181239)) for the 8-bit BBC Micro computer. 
+[**Cloak Of Darkness**](https://mipmip.org/IFrescue/rf/) is the de-facto standard "reference game" that's used to demo the features of any particular IF/text-adventure-game authoring system. Here, I've implemented Cloak Of Darkness in [Graphic Adventure Creator](https://en.wikipedia.org/wiki/Graphic_Adventure_Creator) ([GAC](https://stardot.org.uk/forums/viewtopic.php?p=181239#p181239)) for the 8-bit BBC Micro computer. 
 
 &nbsp;&nbsp;[**>>> Play the game online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
 
