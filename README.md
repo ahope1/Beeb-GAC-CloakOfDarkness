@@ -3,7 +3,7 @@
 
 &nbsp;&nbsp;[**>>> Play the game online <<<**](http://bbcmicro.co.uk//jsbeeb/play.php?autoboot&disc=https://raw.githubusercontent.com/ahope1/Beeb-GAC-CloakOfDarkness/main/CloakOfDarknessGAC.ssd)
 
-[General instructions](https://stardot.org.uk/forums/viewtopic.php?p=181239#p181239) for using the BBC Micro version of GAC are available. GAC was originally developed by [Sean Ellis](https://www.skeptic.org.uk/2020/11/sean-ellis-1966-2020/) (1966-2020). RIP. 
+See the [general instructions](https://stardot.org.uk/forums/viewtopic.php?p=181239#p181239) for using the BBC Micro version of GAC. GAC was originally developed by [Sean Ellis](https://www.skeptic.org.uk/2020/11/sean-ellis-1966-2020/) (1966-2020). RIP. 
 
 Cloak Of Darkness was originally designed and implemented (in other interactive fiction (IF) systems) by [Roger Firth](https://www.ifwiki.org/Roger_Firth).
 
