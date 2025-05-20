@@ -5,7 +5,7 @@
 
 See the [general instructions](https://stardot.org.uk/forums/viewtopic.php?p=181239#p181239) for using the BBC Micro version of GAC. GAC was originally developed by [Sean Ellis](https://www.skeptic.org.uk/2020/11/sean-ellis-1966-2020/) (1966-2020). RIP. 
 
-Cloak Of Darkness was originally designed and implemented (in other interactive fiction systems) by [Roger Firth](https://www.ifwiki.org/Roger_Firth).
+Cloak Of Darkness was originally designed and implemented (in various interactive fiction systems, but not GAC) by [Roger Firth](https://www.ifwiki.org/Roger_Firth).
 
 
 ## The files
